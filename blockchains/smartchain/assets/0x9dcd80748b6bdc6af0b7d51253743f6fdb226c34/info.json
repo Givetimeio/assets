@@ -1,0 +1,29 @@
+{ 
+ "name": "Givetime Token",
+    "website": "https://givetime.io",
+    "description": "GTM token - Changing the paradigm of human life",
+    "explorer": "https://bscscan.com/token/0x9dcd80748b6bdc6af0b7d51253743f6fdb226c34",
+    "type": "BEP20",
+    "symbol": "GTM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9dcd80748b6bdc6af0b7d51253743f6fdb226c34",
+	"links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/givetimeio"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/givetimeio"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/givetimeio/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/givetime-io/"
+        },
+    ]
+}
